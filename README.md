@@ -15,6 +15,8 @@ Power BI dashboard created to analyze music streaming trends, top artists, genre
 
 ## Dashboard Preview
 
+![Spotify Dashboard](spotify-home.png)
+![Spotify Dashboard](spotify-artists.png)
 
 ## Key Insights
 - Identified most streamed artists
