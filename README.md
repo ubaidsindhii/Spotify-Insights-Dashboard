@@ -22,3 +22,9 @@ Power BI dashboard created to analyze music streaming trends, top artists, genre
 - Identified most streamed artists
 - Compared genre popularity
 - Visualized listening patterns
+
+## Project Files
+Spotify.pbix
+
+## Author
+Ubaid Sindhi
